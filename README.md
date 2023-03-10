@@ -15,7 +15,7 @@ Let's get started!
 * [Interlude: What is a model anyway?](./notebooks/interlude.ipynb)
 * [Part 2: Approximate modeling - Differentiate, differentiate, differentiate!](./notebooks/part2.ipynb)
 
-### Supplementary material
+### Additional notebooks
 * [Generalization to n-grams](./notebooks/ngrams.ipynb)
 
 ### References
