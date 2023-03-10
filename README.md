@@ -11,13 +11,12 @@ Note: The general idea and flow of this notebook is heavily adapted from Karpath
 Let's get started!
 
 ## Overview
-* [Part 1: Exact modeling - Count, count, count!](#first-bullet)
-* [Interlude: What is a model anyway?](#second-bullet)
-* [Part 2: Approximate modeling - Differentiate, differentiate, differentiate!](#third-bullet)
+* [Part 1: Exact modeling - Count, count, count!](./notebooks/part1.ipynb)
+* [Interlude: What is a model anyway?](./notebooks/interlude.ipynb)
+* [Part 2: Approximate modeling - Differentiate, differentiate, differentiate!](./notebooks/part2.ipynb)
 
 ### Supplementary material
-* [Generalization to n-grams]()
-* [A smarter way to tokenize]()
+* [Generalization to n-grams](./notebooks/ngrams.ipynb)
 
 ### References
 * [Karpathy's lectures on NLP](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2)
