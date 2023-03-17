@@ -6,7 +6,7 @@ Our goal will be to build a model that generates fake street names for Zurich. W
 
 In fact, we will actually build two models using two different approaches. In the first model, we'll simply count the number of times each pair of letters appears in the data set. In the second model, we'll use matrix multiplication and optimization methods - essentially a simple neural network. Even though we will use two totally different starting points, we will see that we will arrive at the same model!
 
-Note: The general idea and flow of this notebook is heavily adapted from Karpathy's excellent [lecture series](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2) on language modeling. 
+Note: The general idea and flow of the notebooks is heavily adapted from Karpathy's excellent [lecture series](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2) on language modeling. 
 
 Let's get started!
 
@@ -16,7 +16,7 @@ Let's get started!
 * [Part 2: Approximate modeling - Differentiate, differentiate, differentiate!](./notebooks/part2.ipynb)
 
 ### Additional notebooks
-* [Generalization to n-grams](./notebooks/ngrams.ipynb)
+* [Generalization to n-grams](./notebooks/ngram.ipynb)
 
 ### References
 * [Karpathy's lectures on NLP](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2)
