@@ -1,5 +1,7 @@
 # A Hands-On Introduction to Language Modeling
 
+[Blog post format of this repo can be found [here](https://sajanth.github.io/notebook/posts/nlp/)] 
+
 In this repository we are going to dive into the basics of language modeling! If you are looking for the latest and greatest in AI, you have to look somewhere else though - here we will focus on fundamental concepts of statistical modeling and try to derive as much as possible from first principles :) In return, it should be easy to follow even without any background in neural networks!
 
 Our goal will be to build a model that generates fake street names for Zurich. We'll do this by looking at a list containing all the real street names of Zurich and trying to model the probability that two letters appear next to each other. This way, we can generate new street names by randomly selecting letters according to their probability of appearing together.
